@@ -1,1 +1,23 @@
+h1 {
+  color: purple;
+}
 
+div {
+  /* width: 500;
+  height: 500;
+  display: -webkit-flex;
+  display: flex;
+  text-align: center;
+  margin: auto;
+  flex-wrap: wrap; */
+}
+
+div img {
+  width: 80px; /* I took the width from your post and placed it in css */
+   height: 220px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
